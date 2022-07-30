@@ -1,33 +1,43 @@
-MDisk Unlimited Link Convertor Bot 🔥
+# MDisk Unlimited Link Convertor Bot 🔥
 
-Convert others MDisk link to your Link and also by direct forward post from other channel... Supports Bitly Links as well Many people Selling it 😂 But now it's FREE
-Features
+Convert others MDisk link to your Link and also by direct forward post from other channel...
+Supports Bitly Links as well
+Many people Selling it 😂 But now it's FREE
 
-    Ultra High Speed ⚡ Convertor
+## Features
+- [x] Ultra High Speed ⚡ Convertor
 
-    Url Upload
+- [x] Url Upload
 
-    Post to Post Conversion
+- [x] Post to Post Conversion
 
-    Bitly Links are also Supported
+- [x] Bitly Links are also Supported
 
-    Bold Font
+- [x] Bold Font
 
-    Removes Unwanted links and @Usernames
+- [x] Removes Unwanted links and @Usernames
 
-    Add your Own Footer Text
+- [x] Add your Own Footer Text
 
-    It's FREE & Original
+- [x] It's FREE & Original
 
-Installation
+### Installation
+Create a Account on Heroku & Click on Deploy.
+Setup your Bot Token and MDisk API key & click on Deploy App.
+Wait for a Minute 😉
+Done ✅
+Start your Bot in Telegram & Enjoy
+#### The Easy Way
 
-Create a Account on Heroku & Click on Deploy. Setup your Bot Token and MDisk API key & click on Deploy App. Wait for a Minute 😉 Done ✅ Start your Bot in Telegram & Enjoy
-The Easy Way
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Shashwat-Shukla/mdisk-ultra-bot)
 
-Deploy
-Required Variables
+##### Required Variables
 
-    BOT_TOKEN: Create a bot using @BotFather, and get the Telegram API token.
-    MDISK_TOKEN: Your MDisk API key Get it from @VideoToolMoneyTree_bot
+- `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
+- `MDISK_TOKEN`: Your MDisk API key Get it from [@VideoToolMoneyTree_bot](https://telegram.dog/VideoToolMoneyTree_bot)
 
-API ID & API HASH Get your own 🤗 from https://my.telegram.org
+`API ID` & `API HASH` Get your own 🤗 from https://my.telegram.org
+
+##### Credit
+
+- Me [Shashwat-Shukla](https://github.com/Shashwat-Shukla) For This Repo
